@@ -5,3 +5,5 @@ My favorite color is blue.
 My name is Meghan.
 
 My favorite color is green
+
+But obviously the best color is purple
